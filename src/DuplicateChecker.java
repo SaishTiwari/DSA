@@ -9,19 +9,13 @@ public class DuplicateChecker {
         int[] num = new int[5];
         System.out.println("Enter 5 numbers");
 
-
         for (int i = 0; i < num.length; i++) {
-
             num[i] = sc.nextInt();
-
-
         }
-
 
         for (int i = 0; i < num.length; i++) {
             System.out.println(num[i]);
         }
-
         boolean a = hasDuplicate(num);
         if (a){
             System.out.printf("Yes");
@@ -30,7 +24,6 @@ public class DuplicateChecker {
             System.out.printf("No");
         }
     }
-
 
     public static boolean hasDuplicate(int[] num) {
         for (int i=0 ; i< num.length; i++){
