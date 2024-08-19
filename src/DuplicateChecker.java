@@ -1,39 +1,21 @@
-import java.util.Scanner;
+class DuplicateChecker {
+    public static void main (String[] args) {
+        int[] arr = {1,2,2,3,4,5,5,6,7,8,8};
+        int a = removeDuplicates(arr);
+        System.out.println(a);
 
-public class DuplicateChecker {
 
-    public static void main(String[] args) {
-
-        Scanner sc = new Scanner(System.in);
-
-        int[] num = new int[5];
-        System.out.println("Enter 5 numbers");
-
-        for (int i = 0; i < num.length; i++) {
-            num[i] = sc.nextInt();
-        }
-
-        for (int i = 0; i < num.length; i++) {
-            System.out.println(num[i]);
-        }
-        boolean a = hasDuplicate(num);
-        if (a){
-            System.out.printf("Yes");
-        }
-        else{
-            System.out.printf("No");
-        }
     }
-
-    public static boolean hasDuplicate(int[] num) {
-        for (int i=0 ; i< num.length; i++){
-            for (int j =i+1 ; j< num.length; j++){
-                if (num[i] == num[j]){
-                    return true;
-                }
-
+    public static int removeDuplicates(int[] nums) {
+        int j =0;
+        for(int i=1; i< nums.length; i++){
+            if(nums[i] != nums[j]){
+                nums[j+1] = nums[i];
+                j++;
             }
         }
-        return false;
+
+        return (j+1);
+
     }
 }
