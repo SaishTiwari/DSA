@@ -5,34 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbc9e1f0-a3c2-49db-9f08-033f9421d750" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/RoughPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/arrays/TwoDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/arrays/TwoSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/FloydTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/HalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/HalfPyramidWithNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/HollowRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/InvertedHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/SolidRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/ZeroOneTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/recursion/Fibbonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/recursion/PrintNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/recursion/SumNaturalNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/sorting/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/DupliInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/DupliInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/ArrayList/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/arrayList/ArrayLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Recursion/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Recursion/Fibbonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Recursion/PrintNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Recursion/SumNaturalNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Sorting/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/StringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/tiwarisaish/dsa_learning/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/tiwarisaish/dsa_learning/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/AnagramChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/ArrayRev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BuySellCrypto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/CheckSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/DuplicateChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/LeftRotateBy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/MinNumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RecursionLearning/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RecursionLearning/PrintNTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RecursionLearning/PrintUptoN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RecursionLearning/SumFirstN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveTargetElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RevArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RotateLeftByK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SearchInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SecondLargestNumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SumInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/ZeroToEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ArrayLists.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.DupliInteger.executor": "Run",
@@ -127,5 +128,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
