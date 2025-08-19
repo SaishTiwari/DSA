@@ -5,13 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbc9e1f0-a3c2-49db-9f08-033f9421d750" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/RoughPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/arrays/TwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/arrays/TwoSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/FloydTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/HalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/HalfPyramidWithNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/HollowRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/InvertedHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/SolidRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/patterns/ZeroOneTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/recursion/Fibbonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/recursion/PrintNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/recursion/SumNaturalNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/DupliInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/DupliInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/ArrayList/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/arrayList/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Recursion/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Recursion/Fibbonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Recursion/PrintNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Recursion/SumNaturalNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/Sorting/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/tiwarisaish/dsa_learning/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/tiwarisaish/dsa_learning/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,27 +56,60 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2hoMupzuZwrgb4C7Iiwk8yM1ACk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayLists.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.DupliInteger.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibbonacci.executor": "Run",
+    "Application.FloydTriangle.executor": "Run",
+    "Application.HalfPyramidWithNumbers.executor": "Run",
+    "Application.HalfTriangle.executor": "Run",
+    "Application.HollowRectangle.executor": "Run",
+    "Application.InvertedHalfPyramid.executor": "Run",
+    "Application.PrintNum.executor": "Run",
+    "Application.RoughPractice.executor": "Run",
+    "Application.SolidRectangle.executor": "Run",
+    "Application.StringReverse.executor": "Run",
+    "Application.SumNaturalNum.executor": "Run",
+    "Application.TwoDimensionalArray.executor": "Run",
+    "Application.ZeroOneTriangle.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/saishtiwari/Downloads/DSA_LEARNING",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tiwarisaish.dsa_learning" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
       </set>
     </attachedChunks>
   </component>
@@ -55,7 +121,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718256204377</updated>
+      <workItem from="1755615232298" duration="10239000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

@@ -1,6 +1,5 @@
-package com.tiwarisaish.dsa_learning.ArrayList;
+package com.tiwarisaish.dsa_learning.arrayList;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 public class ArrayLists {
@@ -18,8 +17,12 @@ public class ArrayLists {
 
         System.out.println("The size is "+list.size());
 
-        
         Collections.sort(list);
+
+        System.out.println(list);
+
+
     }
+
 
 }

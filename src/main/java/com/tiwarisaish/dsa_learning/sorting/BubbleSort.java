@@ -1,4 +1,4 @@
-package com.tiwarisaish.dsa_learning;
+package com.tiwarisaish.dsa_learning.sorting;
 
 import java.util.Scanner;
 
