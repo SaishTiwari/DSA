@@ -1,3 +1,5 @@
+package NeetCode;
+
 public class MinNumArray {
     public static void main(String[] args) {
         int[] arr = {8,4,6,2,9,1};

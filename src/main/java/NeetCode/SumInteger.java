@@ -1,3 +1,5 @@
+package NeetCode;
+
 import java.util.Scanner;
 
 public class SumInteger {

@@ -1,3 +1,5 @@
+package NeetCode;
+
 public class LeftRotateBy1 {
     public static void main(String[] args) {
 

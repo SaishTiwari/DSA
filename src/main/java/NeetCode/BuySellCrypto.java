@@ -1,3 +1,5 @@
+package NeetCode;
+
 public class BuySellCrypto {
     public static void main(String[] args) {
 

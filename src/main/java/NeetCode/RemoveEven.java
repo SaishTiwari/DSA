@@ -1,3 +1,5 @@
+package NeetCode;
+
 public class RemoveEven {
     public static void main(String[] args) {
 

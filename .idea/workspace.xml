@@ -4,35 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbc9e1f0-a3c2-49db-9f08-033f9421d750" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/AnagramChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/ArrayRev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BuySellCrypto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/CheckSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/DuplicateChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/LeftRotateBy1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/MinNumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RecursionLearning/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RecursionLearning/PrintNTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RecursionLearning/PrintUptoN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RecursionLearning/SumFirstN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveTargetElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RevArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RotateLeftByK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SearchInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SecondLargestNumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SumInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NeetCode/ZeroToEnd.java" afterDir="false" />
+    <list default="true" id="dbc9e1f0-a3c2-49db-9f08-033f9421d750" name="Changes" comment="DSA">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/ArrayRev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/ArrayRev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/BuySellCrypto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BuySellCrypto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/CheckSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/CheckSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/DuplicateChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/DuplicateChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/LeftRotateBy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/LeftRotateBy1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/MinNumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/MinNumArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/PlusOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveTargetElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveTargetElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/RevArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RevArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/RotateLeftByK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RotateLeftByK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/SecondLargestNumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SecondLargestNumArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/SumInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SumInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Try.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/ZeroToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/ZeroToEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,41 +62,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.ArrayLists.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.DupliInteger.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibbonacci.executor": "Run",
-    "Application.FloydTriangle.executor": "Run",
-    "Application.HalfPyramidWithNumbers.executor": "Run",
-    "Application.HalfTriangle.executor": "Run",
-    "Application.HollowRectangle.executor": "Run",
-    "Application.InvertedHalfPyramid.executor": "Run",
-    "Application.PrintNum.executor": "Run",
-    "Application.RoughPractice.executor": "Run",
-    "Application.SolidRectangle.executor": "Run",
-    "Application.StringReverse.executor": "Run",
-    "Application.SumNaturalNum.executor": "Run",
-    "Application.TwoDimensionalArray.executor": "Run",
-    "Application.ZeroOneTriangle.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/saishtiwari/Downloads/DSA_LEARNING",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ArrayLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DupliInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibbonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloydTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HalfPyramidWithNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HalfTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HollowRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InvertedHalfPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RoughPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SolidRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumNaturalNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoDimensionalArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZeroOneTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/saishtiwari/Downloads/DSA_LEARNING&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/NeetCode" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.tiwarisaish.dsa_learning" />
     </key>
@@ -123,7 +121,17 @@
       <option name="presentableId" value="Default" />
       <updated>1718256204377</updated>
       <workItem from="1755615232298" duration="10239000" />
+      <workItem from="1756875494884" duration="46000" />
     </task>
+    <task id="LOCAL-00001" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1755628041419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755628041419</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,5 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="DSA" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA" />
   </component>
 </project>

@@ -1,3 +1,5 @@
+package NeetCode;
+
 public class RevArray {
 
     public static void main(String[] args) {

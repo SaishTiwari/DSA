@@ -1,3 +1,5 @@
+package NeetCode;
+
 public class RemoveTargetElement {
     public static void main(String[] args) {
 

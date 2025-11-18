@@ -1,3 +1,5 @@
+package NeetCode;
+
 public class CheckSorted {
 
     public static void main(String[] args) {
