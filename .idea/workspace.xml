@@ -5,29 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbc9e1f0-a3c2-49db-9f08-033f9421d750" name="Changes" comment="DSA">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/sorting/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/ArrayRev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/ArrayRev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/BuySellCrypto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/BuySellCrypto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/CheckSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/CheckSorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/DuplicateChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/DuplicateChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/LeftRotateBy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/LeftRotateBy1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/MinNumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/MinNumArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveTargetElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RemoveTargetElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/RevArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RevArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/RotateLeftByK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/RotateLeftByK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/SecondLargestNumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SecondLargestNumArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/SumInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/SumInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/Try.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NeetCode/ZeroToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NeetCode/ZeroToEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/recursion/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tiwarisaish/dsa_learning/recursion/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,9 +55,11 @@
     &quot;Application.HalfPyramidWithNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Application.HalfTriangle.executor&quot;: &quot;Run&quot;,
     &quot;Application.HollowRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.InvertedHalfPyramid.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrintNum.executor&quot;: &quot;Run&quot;,
     &quot;Application.RoughPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.SolidRectangle.executor&quot;: &quot;Run&quot;,
     &quot;Application.StringReverse.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumNaturalNum.executor&quot;: &quot;Run&quot;,
@@ -122,6 +105,12 @@
       <updated>1718256204377</updated>
       <workItem from="1755615232298" duration="10239000" />
       <workItem from="1756875494884" duration="46000" />
+      <workItem from="1763477829416" duration="1611000" />
+      <workItem from="1764779169441" duration="7142000" />
+      <workItem from="1764870053737" duration="7094000" />
+      <workItem from="1765808713328" duration="5181000" />
+      <workItem from="1765856141136" duration="2950000" />
+      <workItem from="1765872915671" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="DSA">
       <option name="closed" value="true" />

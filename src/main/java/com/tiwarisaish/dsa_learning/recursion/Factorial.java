@@ -5,7 +5,7 @@ public class Factorial {
 
     public static void main(String[] args) {
 
-        int b = Factorial(5);
+        int b = Factorial(3);
         System.out.println(b);
 
     }
@@ -15,8 +15,6 @@ public class Factorial {
         if(n==0 || n==1){
             return 1;
         }
-
-        int fact  = 1;
 
         return n*Factorial(n-1);
     }
